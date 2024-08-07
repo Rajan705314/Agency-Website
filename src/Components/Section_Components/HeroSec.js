@@ -38,7 +38,7 @@ export default function HeroSec() {
 
         {/* <!--Right Col--> */}
         <div class="w-full xl:w-3/5 p-12 overflow-hidden">
-          <img class="mx-auto w-full md:w-4/5 transform -rotate-6 transition hover:scale-105 duration-700 ease-in-out hover:rotate-6" src="https://img.freepik.com/premium-psd/3d-icon-young-man-freelancer-programmer_950157-12372.jpg?w=740" />
+          <img class="mx-auto w-full md:w-4/5 transform -rotate-6 transition hover:scale-105 duration-700 ease-in-out hover:rotate-6" src="https://pngtree.com/freepng/developers-are-coding-programs-on-computers-programmers-are-analyzing-data_14867886.html" />
         </div>
 
        </div>
