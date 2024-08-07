@@ -38,7 +38,7 @@ export default function HeroSec() {
 
         {/* <!--Right Col--> */}
         <div class="w-full xl:w-3/5 p-12 overflow-hidden">
-          <img class="mx-auto w-full md:w-4/5 transform -rotate-6 transition hover:scale-105 duration-700 ease-in-out hover:rotate-6" src="https://th.bing.com/th/id/R.b5fd5552b4503ddb532935e2312e2815?rik=Nd07YtSd6Gn0Pw&riu=http%3a%2f%2fclipart-library.com%2fimages_k%2fcomputer-transparent-image%2fcomputer-transparent-image-21.png&ehk=L%2fIpNwIxcdXbFAmihG%2fS3a1d5fo7Or1VatOBIP1knWg%3d&risl=&pid=ImgRaw&r=0tps://img.freepik.com/premium-vector/software-code-lines-screen-laptop_251819-2398.jpg" />
+          <img class="mx-auto w-full md:w-4/5 transform -rotate-6 transition hover:scale-105 duration-700 ease-in-out hover:rotate-6" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKwDE-UNcc3X1Ei280Zc45VhTaihzPfKL4uw&s" />
         </div>
 
        </div>
